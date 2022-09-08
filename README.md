@@ -1,4 +1,6 @@
 # Dice-Project
+
+![R](https://img.shields.io/static/v1?label=Language%20Used&message=The%20R%20Programming%20Language&color=blue)<br>
 This project aims to find some answers to some experiments made by throwing one (or some) dice. The following questions were answered in this project, with all of them verified by simulating:<br>
 1. On an average, how many times must a 6-sided die be rolled until a 6 turns up?
 2. On an average, how many times must a 6-sided die be rolled until a 6 turns up twice a row?
@@ -12,4 +14,32 @@ This project aims to find some answers to some experiments made by throwing one 
 10. Suppose we roll a fair dice 10 times. What is the probability that the sequence of rolls is non-decreasing?
 
 This project was jointly done by **myself** and **my friend, Ahel Kundu**. The full mathematical treatment would be shared in due time in my *[LinkedIn](https://www.linkedin.com/in/debartha-paul-90a296a9/)* page. Also, the blog post of this project will be available in due time in my personal blog and also on *[R-bloggers](https://www.r-bloggers.com/)*.<br>
-For further clarifications, feel free to reach [Debartha Paul](mailto:pauldeep102@gmail.com?subject=[GitHub]Dice%20Project%20Issue) or [Ahel Kundu](mailto:ahelkundu2001@gmail.com?subject=[GitHub]Dice%20Project%20Issue)
+
+----
+
+Simulations were done in:
+```
+               _                                
+platform       x86_64-w64-mingw32               
+arch           x86_64                           
+os             mingw32                          
+crt            ucrt                             
+system         x86_64, mingw32                  
+status                                          
+major          4                                
+minor          2.1                              
+year           2022                             
+month          06                               
+day            23                               
+svn rev        82513                            
+language       R                                
+version.string R version 4.2.1 (2022-06-23 ucrt)
+nickname       Funny-Looking Kid
+```
+
+----
+Reach us out at:<br>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin)<br>[Debartha](https://www.linkedin.com/in/debartha-paul-90a296a9/) and [Ahel](https://www.linkedin.com/in/ahel-kundu-509b4b1b7/)<br><br>
+![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)<br>
+*Debartha*: [pauldeep102@gmail.com](mailto:pauldeep102@gmail.com?subject=[GitHub]Dice%20Project%20Issue)<br>
+*Ahel*: [ahelkundu2001@gmail.com](mailto:ahelkundu2001@gmail.com?subject=[GitHub]Dice%20Project%20Issue)
