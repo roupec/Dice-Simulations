@@ -1,4 +1,5 @@
 # Dice-Project
+![Dice](Dice.png)
 
 ![R](https://img.shields.io/static/v1?label=Language%20Used&message=The%20R%20Programming%20Language&color=blue)<br>
 This project aims to find some answers to some experiments made by throwing one (or some) dice. The following questions were answered in this project, with all of them verified by simulating:<br>
