@@ -37,8 +37,15 @@ version.string R version 4.2.1 (2022-06-23 ucrt)
 nickname       Funny-Looking Kid
 ```
 
+###  This repository contains
+- **Animations**: Contains the individual animation codes for each of the animations that were created
+- **Simulation Codes**: Contains the individual simulation codes for each of the questions
+- **GIFs.R**: Contains all the animation codes in a single file
+- **Project-Dice.R**: Contains all the simulation codes in a single file
+- **prerequisites.r**:  Contains the included package and codes required for reproducibility
+
 ----
-Reach us out at:<br>
+For any queries, reach us out at:<br>
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin)<br>[Debartha](https://www.linkedin.com/in/debartha-paul-90a296a9/) and [Ahel](https://www.linkedin.com/in/ahel-kundu-509b4b1b7/)<br><br>
 ![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)<br>
 *Debartha*: [pauldeep102@gmail.com](mailto:pauldeep102@gmail.com?subject=[GitHub]Dice%20Project%20Issue)<br>
