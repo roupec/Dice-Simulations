@@ -1,7 +1,7 @@
 # Dice-Project
 ![Dice](Dice.png)
 
-![R](https://img.shields.io/static/v1?label=Language%20Used&message=The%20R%20Programming%20Language&color=blue)<br>
+![R](https://img.shields.io/static/v1?label=Language%20Used&message=The%20R%20Programming%20Language&color=blue&logo=R)<br>
 This project aims to find some answers to some experiments made by throwing one (or some) dice. The following questions were answered in this project, with all of them verified by simulating:<br>
 1. On an average, how many times must a 6-sided die be rolled until a 6 turns up?
 2. On an average, how many times must a 6-sided die be rolled until a 6 turns up twice a row?
