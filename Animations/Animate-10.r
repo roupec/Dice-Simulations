@@ -7,11 +7,12 @@ for(i in 1:20)
 mean_vec
 saveGIF(for(i in 1:20)
 {
-	plot(1:i,mean_vec[1:i],ylim=c(0,1),
+	plot(1:i,mean_vec[1:i],ylim=c(0,10),
 		main='Simulation',xlab='No. of throws',
-		ylab='Probability',type='l',
+		ylab='Probability',type='b',
 		col='blue')
 },
 movie.name="Sim-10.gif",
 interval=0.2
 )
+
