@@ -14,7 +14,7 @@ This project aims to find some answers to some experiments made by throwing one 
 9. Suppose we can roll a 6-sided die up to n times. At any point we can stop, and that roll becomes our “score”. Our goal is to get the highest possible score, on average. How should we decide when to stop?
 10. Suppose we roll a fair dice 10 times. What is the probability that the sequence of rolls is non-decreasing?
 
-This project was jointly done by **myself** and **my friend, Ahel Kundu**. The full mathematical treatment would be shared in due time in my *[LinkedIn](https://www.linkedin.com/in/debartha-paul-90a296a9/)* page. Also, the blog post of this project will be available in due time in my personal blog and also on *[R-bloggers](https://www.r-bloggers.com/)*.<br>
+This project was jointly done by **myself** and **my friend, Ahel Kundu**. Reach out to us in case you want to look at the full mathematical treatments of this project. The blog post of this project is now available on *[R-bloggers](https://www.r-bloggers.com/2022/11/some-problems-related-to-dice/)*.<br>
 
 ----
 
